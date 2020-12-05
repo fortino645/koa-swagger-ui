@@ -13,9 +13,9 @@
   },
   "license": "MIT",
   "dependencies": {
-    "joi": "^14.3.1",
+    "joi": "^17.2.1",
     "joi-to-json-schema": "^5.1.0",
-    "joi-to-swagger": "^3.3.0",
+    "joi-to-swagger": "^5.1.0",
     "koa-send": "^5.0.0",
     "lodash": "^4.17.15",
     "path-to-regexp": "^5.0.0",
